@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>selectors with color change</title>title>
+  </head>
+  <body>
+    <h1 id="title>Hello SVPCET students</h1>
+      <h1></h1>
+      <h1> <p class="message">This Dept of CAI.<p><h1>
+        <h1> <p> This is 3rd year v sem.</p></h1>
+        <button onclick="select Element()"> click me</button>button>
+        <script src="script2.js"></script>
+      </h1>body>
+      </p>html>
+      Script2.js
+      function select elements()
+      <
+        Let title Js=document.get Element By Id("title")
+        title Js.style.color ="green";
+        let title Js=document.get element By class NAME("p");
+        paragraph[].style.background color="yellow";
+        }
